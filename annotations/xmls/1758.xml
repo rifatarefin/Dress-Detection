@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Panjabi-(1100-2101) Udayan</folder>
+	<filename>1758.jpg</filename>
+	<path>D:\project\Panjabi-(1100-2101) Udayan\1758.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1830</width>
+		<height>1500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>panjabi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>654</xmin>
+			<ymin>545</ymin>
+			<xmax>1134</xmax>
+			<ymax>1077</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>kamiz</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>422</xmin>
+			<ymin>411</ymin>
+			<xmax>718</xmax>
+			<ymax>1272</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>kamiz</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>900</xmin>
+			<ymin>374</ymin>
+			<xmax>1343</xmax>
+			<ymax>1252</ymax>
+		</bndbox>
+	</object>
+</annotation>

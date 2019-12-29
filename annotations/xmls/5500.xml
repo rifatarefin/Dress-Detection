@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Lungi_dhuti_Fotua-(5500-6502) Rana</folder>
+	<filename>5500.jpg</filename>
+	<path>C:\Users\Mohammad Rana\Desktop\Lungi_dhuti_Fotua-(5500-6502) Rana\5500.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>609</width>
+		<height>684</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lungi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>203</xmin>
+			<ymin>42</ymin>
+			<xmax>412</xmax>
+			<ymax>614</ymax>
+		</bndbox>
+	</object>
+</annotation>

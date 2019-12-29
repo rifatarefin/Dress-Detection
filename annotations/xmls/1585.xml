@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Panjabi-(1100-2101) Udayan</folder>
+	<filename>1585.jpg</filename>
+	<path>D:\project\Panjabi-(1100-2101) Udayan\1585.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3600</width>
+		<height>5400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>panjabi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>954</xmin>
+			<ymin>816</ymin>
+			<xmax>2746</xmax>
+			<ymax>3791</ymax>
+		</bndbox>
+	</object>
+</annotation>

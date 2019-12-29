@@ -1,0 +1,26 @@
+<annotation>
+	<folder>t-shirt_jeans-(2200-3202) Fuad</folder>
+	<filename>2938.jpg</filename>
+	<path>G:\t-shirt_jeans-(2200-3202) Fuad\2938.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>t-shirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>172</ymin>
+			<xmax>248</xmax>
+			<ymax>438</ymax>
+		</bndbox>
+	</object>
+</annotation>

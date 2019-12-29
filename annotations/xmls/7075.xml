@@ -1,0 +1,38 @@
+<annotation>
+	<folder>hijab(7000-)</folder>
+	<filename>7075.jpg</filename>
+	<path>F:\clean data f\hijab(7000-)\7075.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>564</width>
+		<height>790</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hijab</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>236</xmin>
+			<ymin>50</ymin>
+			<xmax>326</xmax>
+			<ymax>172</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>borka</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>195</xmin>
+			<ymin>169</ymin>
+			<xmax>369</xmax>
+			<ymax>567</ymax>
+		</bndbox>
+	</object>
+</annotation>

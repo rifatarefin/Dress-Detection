@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Lungi_dhuti_Fotua-(5500-6502) Rana</folder>
+	<filename>5514.jpg</filename>
+	<path>C:\Users\Mohammad Rana\Desktop\Lungi_dhuti_Fotua-(5500-6502) Rana\5514.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shari</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>172</xmin>
+			<ymin>122</ymin>
+			<xmax>265</xmax>
+			<ymax>287</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>shari</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>268</xmin>
+			<ymin>56</ymin>
+			<xmax>336</xmax>
+			<ymax>271</ymax>
+		</bndbox>
+	</object>
+</annotation>

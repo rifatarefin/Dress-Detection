@@ -1,0 +1,26 @@
+<annotation>
+	<folder>blazer_jacket-(4400-5402) Hridoy</folder>
+	<filename>4764.jpg</filename>
+	<path>F:\blazer_jacket-(4400-5402) Hridoy\4764.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blazer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>152</ymin>
+			<xmax>409</xmax>
+			<ymax>580</ymax>
+		</bndbox>
+	</object>
+</annotation>

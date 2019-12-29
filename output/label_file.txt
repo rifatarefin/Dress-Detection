@@ -1,0 +1,2 @@
+test_images/4750.jpg: blazer, pant, 
+test_images/5556.jpg: lungi, 

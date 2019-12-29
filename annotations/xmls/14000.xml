@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>hijab(7000-)</folder>
+	<filename>14000.jpg</filename>
+	<path>F:\clean data f\hijab(7000-)\14. beautiful_muslimah_hijab_girl_30_by_mylucidheartwork-d9lyzcm.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hijab</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>194</xmin>
+			<ymin>57</ymin>
+			<xmax>800</xmax>
+			<ymax>767</ymax>
+		</bndbox>
+	</object>
+</annotation>

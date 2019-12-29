@@ -1,0 +1,9 @@
+mock==2.0.0
+numpy==1.14.3
+tensorflow==1.8.0
+matplotlib==2.2.2
+setuptools==38.4.0
+lxml==4.1.1
+six==1.11.0
+Pillow==5.4.1
+protobuf==3.6.1
