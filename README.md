@@ -38,7 +38,7 @@ Add `models` and `models/slim` to your `PYTHONPATH`:
 export PYTHONPATH=$PYTHONPATH:`pwd`:`pwd`/slim
 ```
 
->_**Note:** This must be ran every time you open terminal, or added to your `~/.bashrc` file._
+>_**Note:** This must be run every time you open terminal, or added to your `~/.bashrc` file._
 
 
 ## Usage
