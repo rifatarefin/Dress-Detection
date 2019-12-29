@@ -1,4 +1,5 @@
 # Dress Detection from Image
+![Blazer](output/test_images/4563.jpg)
 A dress classifier trained on Bangladeshi dress types. Supported dress types:
 
  1. Panjabi
@@ -16,8 +17,6 @@ A dress classifier trained on Bangladeshi dress types. Supported dress types:
  13. Sweater
  14. T-shirt
 
-**Results**
-![Blazer](output/test_images/4563.jpg)
 
 ## Installation
 
