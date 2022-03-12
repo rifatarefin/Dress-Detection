@@ -5,5 +5,5 @@ matplotlib==2.2.2
 setuptools==38.4.0
 lxml==4.1.1
 six==1.11.0
-Pillow==5.4.1
+Pillow==9.0.1
 protobuf==3.6.1
